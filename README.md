@@ -13,7 +13,7 @@ Set up a new route for GET requests to "/balance" that will use the required fil
 
 Add a button that will make an Ajax call to the server, and display the new random balance on the page.
 
-Style things using your css file.
+Style things using CSS.
 
 ## HARD MODE
 
