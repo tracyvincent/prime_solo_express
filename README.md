@@ -5,7 +5,7 @@ Create a file containing the JavaScript for running your server called `server.j
 
 Install the Express library using `npm install express --save`.
 
-Set up a basic route to serve an `index.html` file on the `/` path. Also set up static file serving using `express.static` using a folder called "public". Put a client side JavaScript file named `scripts.js` in your static folder and a style sheet named `styles.css`. Add a script tag referencing your script your index.html file. Also add a link to your style sheet.
+Set up a basic route to serve an `index.html` file on the `/` path. Also set up static file serving using `express.static` using a folder called "public". Put a client side JavaScript file named `scripts.js` in your public folder and a style sheet named `styles.css`. Add a script tag referencing your script to your index.html file. Also add a link to your style sheet.
 
 Next, make a folder called "modules". Copy your three module files from the `prime_peer_nd_00` assignment into this folder and require them in your `server.js` file.
 
