@@ -17,7 +17,7 @@ Style things using CSS.
 
 ## HARD MODE
 
-Also animate the data on the page using jquery animate libraries.
+Also animate the data on the page using jQuery.
 
 ## PRO MODE 
 
