@@ -1,7 +1,7 @@
 # prime_solo_express
 
 Create a basic node application using `npm init`.
-Create a file containing the JavaScript for running your server. This can be called `server.js` or something else. Remeber that this is the filename you will pass to node to start your server. 
+Create a file containing the JavaScript for running your server called `server.js`. Remember that this is the filename you will pass to `node` to start your server. 
 
 Install the Express library using `npm install express --save`.
 
